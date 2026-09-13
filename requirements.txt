@@ -1,0 +1,7 @@
+faster-whisper
+requests[socks]
+pyyaml
+anthropic
+pyttsx3
+pyaudio
+pvporcupine

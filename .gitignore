@@ -1,0 +1,25 @@
+# Базы и кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Модели (очень важно не пушить GGUF!)
+LocalModel/*.gguf
+LocalModel/*.bin
+LocalModel/llama_log.txt
+
+# Конфиги и секреты
+.env
+config.yaml
+history.jsonl
+facts.json
+schedule.json
+
+# Виртуальные окружения (если будут)
+venv/
+env/
+.venv/
+dist/
+build/
+*.exe

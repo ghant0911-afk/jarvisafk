@@ -1,0 +1,13 @@
+{
+  "anthropic_api_key": "",
+  "ollama_url": "http://localhost:11434",
+  "default_city": "sochi",
+  "openai_api_key": "",
+  "theme": "Cyan",
+  "ai_volume": 100,
+  "audio_out": "Default",
+  "audio_in": "Default",
+  "ai_api_key": "local",
+  "ai_base_url": "http://127.0.0.1:8080/v1",
+  "ai_model": "tinyllama"
+}
